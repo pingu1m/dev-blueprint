@@ -1,5 +1,10 @@
 # TODO
 
+to add 
+functional programming principles and patterns
+infrastructure
+docker, shell, make, cloud, kubernetes
+
 #### **Book Structure Overview**
 
 1. **Introduction**

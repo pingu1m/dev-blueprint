@@ -1,74 +1,84 @@
 # Table of contents
 
 * [TODO](README.md)
-* [terminologies](terminologies.md)
+* [Terminologies](terminologies.md)
 
-## Introduction
 
-* [Purpose of this book](introduction/purpose-of-this-book.md)
-* [How to use this book](introduction/how-to-use-this-book.md)
-* [Good starting point](introduction/good-starting-point.md)
-* [How to use this book](introduction/how-to-use-this-book.md)
-* [Overview of software development](introduction/overview-of-software-development.md)
-* [Purpose of this book](introduction/purpose-of-this-book.md)
-* [Tools of software development](introduction/tools-of-software-development.md)
+## 01 Introduction
 
-## Foundation
-* [combinatorics](foundation/combinatorics.md)
-* [Computer architecture](foundation/computer-architecture.md)
-* [Constants](foundation/constants.md)
-* [Conversions](foundation/conversions.md)
-* [Cryptography and Ciphers](foundation/cryptography-and-ciphers.md)
-* [Databases](foundation/databases.md)
-* [Hashing](foundation/hashing.md)
-* [Memory model](foundation/memory-model.md)
-* [Must know math functions](foundation/must-known-math-functions.md)
-* [OSI model](foundation/osi-model.md)
-* [probability](foundation/probability.md)
+* [Purpose of this book](01_introduction/purpose-of-this-book.md)
+* [How to use this book](01_introduction/how-to-use-this-book.md)
+* [Good starting point](01_introduction/good-starting-point.md)
+* [How to use this book](01_introduction/how-to-use-this-book.md)
+* [Overview of software development](01_introduction/overview-of-software-development.md)
+* [Purpose of this book](01_introduction/purpose-of-this-book.md)
+* [Tools of software development](01_introduction/tools-of-software-development.md)
 
-## Continuous improvement
-* [Finding what works for you](continuous-improvement/finding-what-works-for-you.md)
-* [Slow and steady](continuous-improvement/slow-and-steady.md)
-* [Structuring your study plan](continuous-improvement/structuring-your-study-plan.md)
 
-## Clean code and refactoring and testing
-* [Clean code: top practices](clean-code-and-refactoring/clean-code:-top-10-practices.md)
-* [Code smells](clean-code-and-refactoring/code-smells:-identification-and-resolution.md)
-* [Refactoring: top techniques](clean-code-and-refactoring/refactoring:-top-10-techniques.md)
-* [What the heck is TDD](clean-code-and-refactoring/tdd.md)
+## 02 Continuous improvement
 
-## Software design principles
-* [Cohesion and Coupling: Balancing for Modularity](software-design-principles/cohesion-and-coupling:-balancing-for-modularity.md)
-* [Dependency Injection: Concept and Implementation](software-design-principles/dependency-injection:-concept-and-implementation.md)
-* [Encapsulation, Composition vs. Inheritance](software-design-principles/encapsulation:-composition-vs-inheritance.md)
-* [Grasp design principles](software-design-principles/grasp-design-principles.md)
-* [Keeping It Simple Stupid (KISS)](software-design-principles/keeping-it-simple-stupid-(kiss).md)
-* [Object-Oriented Programming (OOP) Essentials](software-design-principles/object-oriented-programming-(oop)-essentials.md)
-* [Separation of concerns](software-design-principles/separation-of-concerns.md)
-* [SOLID principles](software-design-principles/solid-principles.md)
+* [Finding what works for you](02_continuous-improvement/finding-what-works-for-you.md)
+* [Slow and steady](02_continuous-improvement/slow-and-steady.md)
+* [Structuring your study plan](02_continuous-improvement/structuring-your-study-plan.md)
 
-## Design patterns
-* [Anti-Patterns: What to Avoid](design-patterns/anti-patterns:-what-to-avoid.md)
-* [Common Design Patterns](design-patterns/common-design-patterns.md)
-* [Pattern Usage and Selection Criteria](design-patterns/pattern-usage-and-selection-criteria.md)
 
-## System design
+## 03 Foundation
+
+* [Combinatorics](03_foundation/combinatorics.md)
+* [Computer architecture](03_foundation/computer-architecture.md)
+* [Constants](03_foundation/constants.md)
+* [Conversions](03_foundation/conversions.md)
+* [Cryptography and Ciphers](03_foundation/cryptography-and-ciphers.md)
+* [Databases](03_foundation/databases.md)
+* [Hashing](03_foundation/hashing.md)
+* [Memory model](03_foundation/memory-model.md)
+* [Must know math functions](03_foundation/must-known-math-functions.md)
+* [OSI model](03_foundation/osi-model.md)
+* [probability](03_foundation/probability.md)
+
+
+## 04 Problem Solving
+
+* [Choosing the right data structure](04_problem-solving/choosing-the-right-data-structure.md)
+* [Code complexity how fast is your code](04_problem-solving/code-complexity-how-fast-is-your-code.md)
+* [Common data structures and complexities](04_problem-solving/common-data-structures-and-complexities.md)
+* [Essential algorithms and data structures](04_problem-solving/essential-algorithms-and-data-structures.md)
+* [Most important complexities](04_problem-solving/most-important-complexities.md)
+* [Overview of Algorithm Complexity (Time and Space)](04_problem-solving/overview-of-algorithm-complexity-(time-and-space).md)
+* [Practice Problems based on the Grind 75 list](04_problem-solving/practice-problems-based-on-the-grind-75-list.md)
+* [Problem solving strategies](04_problem-solving/problem-solving-strategies.md)
+
+
+## 05 Writing code
+
+* [Clean code: top practices](05_writing-code/clean-code:-top-10-practices.md)
+* [Code smells](05_writing-code/code-smells:-identification-and-resolution.md)
+* [Refactoring: top techniques](05_writing-code/refactoring:-top-10-techniques.md)
+* [What the heck is TDD](05_writing-code/tdd.md)
+* [Cohesion and Coupling: Balancing for Modularity](05_writing-code/cohesion-and-coupling:-balancing-for-modularity.md)
+* [Dependency Injection: Concept and Implementation](05_writing-code/dependency-injection:-concept-and-implementation.md)
+* [Encapsulation, Composition vs. Inheritance](05_writing-code/encapsulation:-composition-vs-inheritance.md)
+* [Grasp design principles](05_writing-code/grasp-design-principles.md)
+* [Keeping It Simple Stupid (KISS)](05_writing-code/keeping-it-simple-stupid-(kiss).md)
+* [Object-Oriented Programming (OOP) Essentials](05_writing-code/object-oriented-programming-(oop)-essentials.md)
+* [Separation of concerns](05_writing-code/separation-of-concerns.md)
+* [SOLID principles](05_writing-code/solid-principles.md)
+* [What is domain and how to model it](05_writing-code/domain-modelling.md)
+* [Common Design Patterns](05_writing-code/common-design-patterns.md)
+* [Pattern Usage and Selection Criteria](05_writing-code/pattern-usage-and-selection-criteria.md)
+* [Anti-Patterns: What to Avoid](05_writing-code/anti-patterns:-what-to-avoid.md)
+
+
+### 06 System design
+
 * [API Design Principles and Best Practices](system-design/api-design-principles-and-best-practices.md)
 * [Designing Scalable Systems](system-design/designing-scalable-systems.md)
 * [Fundamentals of System Design](system-design/fundamentals-of-system-design.md)
 * [Logging and Tracing in Distributed Systems](system-design/logging-and-tracing-in-distributed-systems.md)
 
-## Solving problems with code
-* [Choosing the right data structure](solving-problems-with-code/choosing-the-right-data-structure.md)
-* [Code complexity how fast is your code](solving-problems-with-code/code-complexity-how-fast-is-your-code.md)
-* [Common data structures and complexities](solving-problems-with-code/common-data-structures-and-complexities.md)
-* [Essential algorithms and data structures](solving-problems-with-code/essential-algorithms-and-data-structures.md)
-* [Most important complexities](solving-problems-with-code/most-important-complexities.md)
-* [Overview of Algorithm Complexity (Time and Space)](solving-problems-with-code/overview-of-algorithm-complexity-(time-and-space).md)
-* [Practice Problems based on the Grind 75 list](solving-problems-with-code/practice-problems-based-on-the-grind-75-list.md)
-* [Problem solving strategies](solving-problems-with-code/problem-solving-strategies.md)
 
-## Soft skills
+## 07 Soft skills
+
 * [Following](soft-skills/following.md)
 * [Leading](soft-skills/leading.md)
 * [Listening](soft-skills/listening.md)

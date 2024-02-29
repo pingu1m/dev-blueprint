@@ -5,52 +5,9 @@ functional programming principles and patterns
 infrastructure
 docker, shell, make, cloud, kubernetes
 
-#### **Book Structure Overview**
 
-1. **Introduction**
-   * Purpose of the book
-   * How to use this book
-   * Overview of software development
-   * Tools of software development
-2. **Clean Code & Refactoring**
-   * Clean Code: Top 10 Practices
-   * Refactoring: Top 10 Techniques
-   * Code Smells: Identification and Resolution
-3. **Software Design Principles**
-   * Object-Oriented Programming (OOP) Essentials
-   * SOLID Principles
-   * GRASP Design Principles
-   * Dependency Injection: Concept and Implementation
-   * Encapsulation, Composition vs. Inheritance
-   * Separation of Concerns
-   * Keeping It Simple Stupid (KISS)
-   * Cohesion and Coupling: Balancing for Modularity
-4. **Design Patterns**
-   * Common Design Patterns
-   * Pattern Usage and Selection Criteria
-   * Anti-Patterns: What to Avoid
-5. **System Design**
-   * Fundamentals of System Design
-   * Designing Scalable Systems
-   * API Design Principles and Best Practices
-   * Logging and Tracing in Distributed Systems
-6. **Algorithms and Data Structures**
-   * Overview of Algorithm Complexity (Time and Space)
-   * Essential Algorithms and Data Structures
-   * Problem-solving Strategies
-   * Practice Problems based on the Grind 75 list
-7. **Improvement Strategies**
-   * Structuring Your Study Plan
-   * Mock Interviews: Practice and Strategy
-   * Navigating Behavioral Questions
-   * Negotiating Offers
-8. **Soft Skills**
-   * Negotiating
-   * Following
-   * Leading
-   * Listening
 
-####
+
 
 ####
 
